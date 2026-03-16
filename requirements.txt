@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+psycopg2-binary
+streamlit-cookies-controller
+PyJWT
+pydantic
+pydantic-settings
+extra-streamlit-components
